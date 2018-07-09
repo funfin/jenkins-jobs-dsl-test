@@ -1,4 +1,4 @@
-def jobName="docker test"
+def jobName="test docker"
 job(jobName) {
     steps {
         shell('''
