@@ -1,4 +1,4 @@
-def jobName="test pipeline docker agent"
+def jobName="test_pipeline_docker_agent"
 pipelineJob(jobName) {
     definition {
         cps {
